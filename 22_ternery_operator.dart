@@ -1,4 +1,4 @@
-//example of ternery operator
+//example of ternery operator in dart
 import 'dart:io';
 void main()
 {

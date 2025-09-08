@@ -1,4 +1,4 @@
-// assaignment operator
+// assaignment operator ternery ope
 void main()
 {
     int a= 100,b= 50;
