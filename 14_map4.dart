@@ -1,4 +1,4 @@
-// other ways to create map
+// other ways to create map in dart
 import 'dart:collection';
 void main()
 {
