@@ -1,3 +1,4 @@
+// all functions
 void main()
 {
     var fruits=['apple','banana','mango','pinapple','orange','kiwi','graps'];

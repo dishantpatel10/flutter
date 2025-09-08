@@ -1,3 +1,4 @@
+// mixed type list
 void main()
 {
     //mixed type dynamic list

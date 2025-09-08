@@ -1,4 +1,4 @@
-//fixed size & fixed list
+//fixed size & fixed list dart
 void main()
 {
     int size=3;
