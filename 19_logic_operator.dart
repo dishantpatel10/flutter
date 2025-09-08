@@ -1,4 +1,4 @@
-// relational operator 
+// relational operator type test
 import 'dart:io';
 void main()
 {

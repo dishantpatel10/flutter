@@ -1,4 +1,4 @@
-// is and is not operator check to dynamic value 
+// is and is not operator check to dynamic value type test 
 
 void main()
 {
