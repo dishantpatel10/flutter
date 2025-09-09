@@ -20,5 +20,5 @@ void main()
 
     ArmyRank DishantRank= ArmyRank.MajorGeneral;
     print(DishantRank);
-    print("Good bye ");
+    print("Good bye :");
 }
