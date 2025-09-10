@@ -1,4 +1,4 @@
-// concept of enumeration
+// concept of enumeration in dart
 enum ArmyRank
 {
     FeildMarshal,
