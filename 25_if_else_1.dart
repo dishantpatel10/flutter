@@ -12,6 +12,6 @@ void main()
     }
     else
     {
-        print(" You will become")
-    }
+        print(" You will become eligibel for pension after "+(60-age).toString()+" year");
+   }
 }

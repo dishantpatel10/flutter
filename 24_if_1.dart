@@ -1,4 +1,4 @@
-// business profit or losses 
+// business profit or losses in dart
 import 'dart:io';
 void main()
 {
