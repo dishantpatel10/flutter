@@ -11,5 +11,6 @@ void main()
 
     print(name);
     print(address);
-    
+    print(pincode);
+    print(pi);
 }
