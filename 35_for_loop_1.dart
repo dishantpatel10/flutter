@@ -13,7 +13,7 @@ void main()
     print(" ENTER THE NUMBER : ");
     number =int.parse(stdin.readLineSync().toString());
 
-    for(multiplier =1;multiplier<=10;multiplier+1);
+    for(multiplier =1;multiplier<=10;multiplier= multiplier+1)
     {
         answer= number*multiplier;
         print(" $number* $multiplier =$answer");
