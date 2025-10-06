@@ -1,5 +1,5 @@
 // create class to store student detail such as surname,name,age and weight 
-// create class (object)
+// create class (objects)
 
 class Student
 {
