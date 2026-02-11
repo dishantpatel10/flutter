@@ -6,7 +6,7 @@ class Animal
     {
         print(" Animal can sleep");
     }
-    void eat()
+    void vithani()
     {
         print(" Animal can eat");
     }
@@ -24,13 +24,13 @@ class Cat extends Animal
     }
     void action()
     {
-        super.eat();// call parent class
+        super.vithani();// call parent class
         super.sleep();// call parent class
         this.jump();
         this.watch();
     }
 }
-class Tiger extends Cat
+class harsh extends Cat
 {
     void hunt()
     {
@@ -51,6 +51,6 @@ class Tiger extends Cat
 void main()
 {
     // creating tiger class object 
-    Tiger t1 = new Tiger(); 
+    harsh t1 = new harsh(); 
     t1.action();
 } 
